@@ -1,4 +1,4 @@
-# BI_E-COMMECE
+# BI_E-COMMECE Platform
 Environment:
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.
 
